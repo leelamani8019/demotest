@@ -1,0 +1,8 @@
+<?DOCTYPE bookinfo SYSTEM?>
+<!ELEMENT bookinfo(title,authorname,isbn,publisher,edition,price)>
+<!ELEMENT title(#PCDATA)>
+<!ELEMENT authorname(#PCDATA)>
+<!ELEMENT isbn(#PCDATA)>
+<!ELEMENT publisher(#PCDATA)>
+<!ELEMENT edition(#PCDATA)>
+<!ELEMENT price(#PCDATA)>
